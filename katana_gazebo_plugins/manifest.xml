@@ -13,7 +13,6 @@
   <depend package="sensor_msgs"/>
 
   <!-- for gazebo_ros_katana_gripper -->
-  <depend package="object_manipulation_msgs"/>
   <depend package="control_toolbox"/>
   <depend package="actionlib"/>
   <depend package="katana_msgs"/>
